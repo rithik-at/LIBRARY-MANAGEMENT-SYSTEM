@@ -32,8 +32,12 @@ A **Java Swing-based desktop application** for managing books in a library. This
 4. **Return Book:** Enter Book ID → Status changes back to `Available` → System updates in real-time.  
 5. **Remove Book:** Enter Book ID → Book record is deleted from the database → Table refreshes automatically.
 
+## Interface:
 
 <img width="1156" height="729" alt="Screenshot 2025-10-18 212813" src="https://github.com/user-attachments/assets/441a9dea-4c9f-40ee-bc75-439a244a853a" />
+
+
+## Database 
 
 <img width="1348" height="961" alt="Screenshot 2025-10-18 212939" src="https://github.com/user-attachments/assets/24b5ae5a-8825-43bd-829e-00b88c065be4" />
 
